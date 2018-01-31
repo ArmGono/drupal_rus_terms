@@ -8,8 +8,6 @@ https://t.me/drupal_rus - это чат сообщества Drupal'еров.
 
 ## Дополнительная информация
 
-Сайты сообщества Drupal в России - http://dru.io/, https://drupal.ru/
-
-Чат для новичков - https://t.me/drupal_beginner 
-
-Youtube (Drupal Юг) - https://www.youtube.com/user/drupalyug
+* Сайты сообщества Drupal в России - http://dru.io/, https://drupal.ru/
+* Чат для новичков - https://t.me/drupal_beginner 
+* Youtube (Drupal Юг) - https://www.youtube.com/user/drupalyug
