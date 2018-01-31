@@ -1,2 +1,2 @@
-# Правила чата (Drupal)[https://t.me/drupal_rus]
+# Правила чата [Drupal](https://t.me/drupal_rus)
 
